@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gradleshadowtestmod",
+  "name": "Gradle Shadow Test Mod",
+  "description": "A mod to test the shadow Gradle plugin.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Choonster"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
